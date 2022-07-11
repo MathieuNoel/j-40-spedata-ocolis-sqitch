@@ -1,0 +1,6 @@
+%syntax-version=1.0.0
+%project=ocolis
+
+initialize 2022-07-11T11:30:32Z Yann Guilloux <yann@oclock.io> # création de la bdd ocolis
+serial_number_text 2022-07-11T12:12:24Z Yann Guilloux <yann@oclock.io> # Transformation du type de la conne serial_number en text
+rest_of_nosqitch 2022-07-11T12:44:30Z Yann Guilloux <yann@oclock.io> # On regroupe l'ensemble des migration pré sqitch
