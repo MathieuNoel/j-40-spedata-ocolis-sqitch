@@ -5,3 +5,4 @@ initialize 2022-07-11T11:30:32Z Yann Guilloux <yann@oclock.io> # création de la
 serial_number_text 2022-07-11T12:12:24Z Yann Guilloux <yann@oclock.io> # Transformation du type de la conne serial_number en text
 rest_ofnosqitch 2022-07-11T12:44:30Z Yann Guilloux <yann@oclock.io> # On regroupe l'ensemble des migration pré sqitch
 delivery_table 2022-07-11T14:22:07Z mathieu <aluminox@gmx.fr> # add a new table for folowing the delivery man's root
+domain 2022-07-12T14:24:20Z mathieu <aluminox@gmx.fr> # creation de deux domaines pour exo RegExp
